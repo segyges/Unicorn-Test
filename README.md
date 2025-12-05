@@ -1,5 +1,11 @@
 # Unicorn-Test
 
+## Note: Deprecated ah
+
+Further consideration indicated that I didn't care about this enough to maintain it
+
+## Continuing:
+
 This repository compiles results of the unicorn test for various open-weights models.
 
 This is not a good test. It is not even meant to be a good test.
